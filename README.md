@@ -22,6 +22,16 @@ A strike is when the player knocks down all 10 pins on his first try. The bonus 
 
 In the tenth frame a player who rolls a srailspare or strike is allowed to roll the extra balls to complete the frame. However no more than three balls can be rolled in tenth frame.
 
+## The Tests
+
+1. Gutter game
+2. All ones
+3. One spare
+4. One strike
+5. Perfect game
+
 ## References
 
 * [Uncle Bob - The Bowling Game Kata](http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+* [Wikipedia - Ten-pin bowling scoring](https://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring)
+* [Kata](https://en.wikipedia.org/wiki/Kata_(programming))
