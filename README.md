@@ -22,13 +22,17 @@ A strike is when the player knocks down all 10 pins on his first try. The bonus 
 
 In the tenth frame a player who rolls a srailspare or strike is allowed to roll the extra balls to complete the frame. However no more than three balls can be rolled in tenth frame.
 
-## The Tests
+## The Five Tests
 
-1. Gutter game
-2. All ones
-3. One spare
-4. One strike
-5. Perfect game
+1. Gutter game - 0 pins for all rolls giving a score of 0.
+2. All ones - 1 pin for each roll giving a score of 20. 
+3. One spare - 5, 5 and 3 pins then 0 for the next 17 rolls giving a score of 16.
+4. One strike - a strike, 3 and 4 pins then 0 for the next 16 rolls giving a score of 24.
+5. Perfect game - 12 strikes for a score of 300.
+
+## Notes
+
+Excluded from the kata are all invalid inputs.
 
 ## References
 
